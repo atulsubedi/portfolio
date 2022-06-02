@@ -1,9 +1,8 @@
-# Yo there it me your friend
+# Yo there its me your friend
 
 
 this is my personal portfolio
 
 
+Hi there myself Atul Subedi i have been learning coding from neog camp since last week !
 
-hi my atul 
-i have been learnig coding from neogcamp since a week and i have at least learn some thing about node.js

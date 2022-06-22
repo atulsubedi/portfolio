@@ -1,0 +1,93 @@
+
+
+:root{
+    --primary-color:rgb(31, 105, 195);
+--secondary-color:rgb(167, 44, 205);
+}
+
+
+body{
+    font-family: 'Anek Malayalam', sans-serif;
+
+}
+hr{
+    margin: 2rem 0rem;
+}
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.container-fluid{
+    padding-left: 1rem;
+padding-right: 1rem;
+}
+.noob{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.nib{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.primary-link{
+    background-color:var(--primary-color);
+    border-radius: 0.5rem;
+    color: white;
+}
+.secondary-link{
+    color: var(--primary-color);
+    border-radius: 0.5rem;
+    border: 1px solid;
+}
+.link{
+    text-decoration: none;
+padding: 0.5rem 1rem;
+}
+
+.non-bullet{
+    list-style: none;
+}
+
+.inline-order{
+    display: inline;
+    padding: 0rem 1rem;
+}
+.navi{
+    background-color: var(--primary-color);
+    color: white; 
+border-bottom-left-radius: 1rem; 
+padding: 1rem 0rem; 
+}
+
+.navi .link {
+    color: white;
+}
+
+.navie{
+    text-align: right;
+}
+.link-active{
+    font-weight: bold;
+}
+.tae{
+    font-weight: bold;
+}
+.hero .kaido{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+.zoro{
+    color: grey;
+    padding-top: 1rem;
+    font-size: 2rem;
+
+}
+.hero{
+    padding: 1rem 0 rem;
+    text-align: center;
+}
+.zoro .sanji{
+    color: var(--primary-color);
+}

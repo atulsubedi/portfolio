@@ -91,3 +91,19 @@ padding: 1rem 0rem;
 .zoro .sanji{
     color: var(--primary-color);
 }
+.section{
+    padding: 2rem 0rem;
+}
+.section h2{
+    text-align: center;
+}
+.bruh h2{
+   
+    text-align: center;
+
+    
+}
+.bruh{
+    background-color: grey;
+    border-bottom-left-radius: 0.2rem;
+}

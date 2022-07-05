@@ -1,14 +1,14 @@
 
 
 :root{
-    --primary-color:rgb(31, 105, 195);
---secondary-color:rgb(167, 44, 205);
+    --secondary-color:#86198f;
+--primary-color:rgb(21, 30, 189);
 }
 
 
 body{
     font-family: 'Anek Malayalam', sans-serif;
-
+    margin: 0px;
 }
 hr{
     margin: 2rem 0rem;
@@ -72,16 +72,19 @@ padding: 1rem 0rem;
 }
 .tae{
     font-weight: bold;
+    padding: 0rem 1rem;
 }
 .hero .kaido{
     max-width: 350px;
     display: block;
     margin: auto;
+    padding-top: 1rem;
 }
 .zoro{
-    color: grey;
+    color: #9ca3af;
     padding-top: 1rem;
     font-size: 2rem;
+    
 
 }
 .hero{
@@ -92,7 +95,7 @@ padding: 1rem 0rem;
     color: var(--primary-color);
 }
 .section{
-    padding: 2rem 0rem;
+    padding: 2rem 15rem;
 }
 .section h2{
     text-align: center;
@@ -104,6 +107,32 @@ padding: 1rem 0rem;
     
 }
 .bruh{
-    background-color: grey;
+    background-color: #d1d5db;
     border-bottom-left-radius: 0.2rem;
+
+}
+
+.footer{
+    background-color: var(--primary-color);
+    color: white;
+    padding: 2rem 1rem;
+    border-bottom-left-radius: 0.2rem;
+    border-top-left-radius: 0.2rem;
+    text-align: center;
+}
+.footer-heading{
+font-size: 2rem;
+font-weight: bold;
+}
+.footer .link{
+    color: white;
+    text-decoration: none;
+}
+    
+    
+h1,h2,h3,h4,h5,h6{
+padding-left: 1rem;
+}
+.hero .zoro{
+    color: black;
 }

@@ -1,8 +1,5 @@
-# Yo there its me your friend
+#Portfolio
 
 
-this is my personal portfolio
 
-
-Hi there myself Atul Subedi i have been learning coding from neog camp since last week !
-
+This is my personal demo Portfolio. 

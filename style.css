@@ -1,6 +1,6 @@
 :root {
   --secondary-color: #86198f;
-  --primary-color: rgb(21, 30, 189);
+  --primary-color: #00bfa6;
 }
 
 body {
@@ -135,4 +135,31 @@ h6 {
 }
 .text {
   text-decoration: none;
+  text-align: center;
+}
+.design {
+  padding-bottom: 2rem;
+  padding-top: 1%;
+}
+.java {
+  padding-bottom: 2rem;
+}
+.projects {
+  max-width: 350px;
+  display: block;
+  margin: auto;
+  padding-top: 1rem;
+}
+.dec {
+  text-align: center;
+}
+.lily {
+  color: var(--primary-color);
+}
+.mouse {
+  background-color: #d1d5db;
+  border-bottom-left-radius: 2rem;
+  padding: 2rem;
+  margin: auto;
+  border: top left radius 2px;
 }
